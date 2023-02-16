@@ -25,4 +25,6 @@ document.getElementById('phone-minus').addEventListener('click', function () {
     totalPhonePrice(newPhoneQuantity);
 
     subtotalPhonePrice(false);
+
+    document.getElementById('')
 })
