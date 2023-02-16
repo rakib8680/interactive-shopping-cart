@@ -84,6 +84,7 @@ function subtotalCasePrice(isIncreased) {
     }
     else {
         subtotal = PreviousSubtotal - 59;
+
     }
 
     subtotalPrice.innerText = subtotal;
